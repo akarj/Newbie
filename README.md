@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/akarj/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://product-card-component-akarj.netlify.app/)
+- Solution URL: [Solution](https://github.com/akarj/product-preview-card-component)
+- Live Site URL: [Card Preview on Live Site](https://product-card-component-akarj.netlify.app/)
 
 ### Built with
 
