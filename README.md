@@ -34,10 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://github.com/akarj/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://product-card-component-akarj.netlify.app/)
 
 ### Built with
 
@@ -53,5 +51,5 @@ I learned how to center a div, and use of semantic HTML5 markup syntax. The use 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/akarj)
+- Twitter - [@yourusername](https://www.twitter.com/akarj_)
